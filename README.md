@@ -44,14 +44,6 @@ The reverse connection is established, allowing execution of basic system comman
 
 ---
 
-## 6. Hoaxshell Listener & Interactive Session
-
-Demonstrating the active Hoaxshell listener interface and managing the established interactive session.
-
-![Hoaxshell Listener Session](5-Hoaxshell-command-execution.webp)
-
----
-
 ## 7. Villain Linux Reverse Shell
 
 Demonstrating cross-platform C2 capabilities by establishing a Linux-based reverse shell using the Villain framework.
